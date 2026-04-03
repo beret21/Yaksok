@@ -1,0 +1,12 @@
+.build/
+.swiftpm/
+.claude/
+*.xcodeproj/
+DerivedData/
+Package.resolved
+Yaksok.app/
+Yaksok-*.zip
+*.DS_Store
+github/
+tests/
+prompt_*.py

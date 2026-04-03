@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Yaksok Updates</title>
+        <link>https://github.com/beret21/Yaksok</link>
+
+        <item>
+            <title>Yaksok 1.0.0</title>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <description><![CDATA[
+                <h3>v1.0.0 — 최초 릴리즈</h3>
+                <ul>
+                    <li>텍스트/이미지에서 LLM으로 일정 추출</li>
+                    <li>Gemini, OpenAI, Claude, Apple Intelligence 지원</li>
+                    <li>전역 단축키, 화면 캡처, 선택 텍스트</li>
+                    <li>드래그앤드롭, Services, Shortcuts.app 연동</li>
+                    <li>일정 충돌 인지 (DayTimelineView)</li>
+                    <li>Sparkle 자동 업데이트</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 03 Apr 2026 12:00:00 +0900</pubDate>
+            <enclosure
+                url="https://github.com/beret21/Yaksok/releases/download/v1.0.0/Yaksok-1.0.0.zip"
+                sparkle:edSignature="cgC+URd9aPK19vSytPFsUZ9I45XsYtc4T6UzZ1jaBgl0VvvJqbED/PQnmvC0+6VuodsmEZw/QnFCoj5FT/A7Bg=="
+                length="1742464"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
