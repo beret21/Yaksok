@@ -39,8 +39,14 @@
 - Apple Silicon (M1 이상)
 - Swift 6.2+ / Xcode 26+
 
-## 설치 및 실행
+## 설치
 
+### 다운로드 (권장)
+[**Yaksok-1.0.0.zip 다운로드**](https://github.com/beret21/Yaksok/releases/latest/download/Yaksok-1.0.0.zip) — Developer ID 서명 + Apple 공증 완료
+
+압축 해제 후 `Yaksok.app`을 `/Applications`에 이동하여 실행합니다.
+
+### 소스 빌드
 ```bash
 git clone https://github.com/beret21/Yaksok.git
 cd Yaksok
@@ -82,6 +88,12 @@ Sources/Yaksok/
 ## 라이선스
 
 MIT License
+
+## 후원
+
+이 프로젝트가 유용하셨다면 커피 한 잔 사주세요 :)
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/beret21)
 
 ## 저자
 
