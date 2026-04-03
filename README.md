@@ -91,9 +91,9 @@ MIT License
 
 ## 후원
 
-이 프로젝트가 유용하셨다면 커피 한 잔 사주세요 :)
+Yaksok이 유용하셨다면 커피 한 잔 사주세요!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/beret21)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/beret21)
 
 ## 저자
 
